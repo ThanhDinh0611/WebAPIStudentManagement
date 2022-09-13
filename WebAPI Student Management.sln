@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI Student Management", "WebAPI Student Management\WebAPI Student Management.csproj", "{A953B3CC-85D7-4420-89FE-5F5E2DA4E178}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagementLibrary", "StudentManagementLibrary\StudentManagementLibrary.csproj", "{0F7C852C-680C-40DD-956F-8049A45ED7B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A953B3CC-85D7-4420-89FE-5F5E2DA4E178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A953B3CC-85D7-4420-89FE-5F5E2DA4E178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A953B3CC-85D7-4420-89FE-5F5E2DA4E178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A953B3CC-85D7-4420-89FE-5F5E2DA4E178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7C852C-680C-40DD-956F-8049A45ED7B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7C852C-680C-40DD-956F-8049A45ED7B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7C852C-680C-40DD-956F-8049A45ED7B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7C852C-680C-40DD-956F-8049A45ED7B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B5794F2-8D19-4561-9DF0-12E577381E7A}
+	EndGlobalSection
+EndGlobal
